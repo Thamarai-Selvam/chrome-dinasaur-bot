@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
 
  This is a python based app for Google chrome's offline dinasaur game.
-It uses image processing <a href="https://pyautogui.readthedocs.io/en/latest/">puautogui</a> to automate the GUI(yeah, you just start app and eat doritos).
+It uses [pyautogui](https://pyautogui.readthedocs.io/en/latest/) to automate the GUI(yeah, you just start app,eat doritos,take a walk,do whatever you want.But, DON'T open any applications while running the bot).
 
 ## Installation
 
@@ -22,9 +22,11 @@ It uses image processing <a href="https://pyautogui.readthedocs.io/en/latest/">p
  You need to edit the co-ordinates where the dinasaur lies on your game screen.
  Also, you should edit the co-ordinates of the retry button on the game screen.
  
- (Use tools such as paint.net (for offline) [!inkplant](https://inkplant.com/tools/image-coordinates)
+ (Use tools like paint.net (for offline) or [inkplant](https://inkplant.com/tools/image-coordinates)(for online) to get the co-ordinates.
+ 
 ## Running bot
-   
+
+   ```sh
    python app.py
-      
+   ```
       
