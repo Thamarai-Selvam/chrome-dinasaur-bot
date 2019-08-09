@@ -10,7 +10,7 @@ It uses [pyautogui](https://pyautogui.readthedocs.io/en/latest/) to automate the
  First things first.
    Clone the repository locally.
    ```sh
-   git clonehttps://github.com/Thamarai-Selvam/chrome-dinasaur-bot.git
+   git clone https://github.com/Thamarai-Selvam/chrome-dinasaur-bot.git
    ``` 
     
  Installing the required plugins.
